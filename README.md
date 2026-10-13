@@ -21,13 +21,8 @@ fun_fact: I turn coffee into code ☕ → 💻
 
 <p align="center">
   <a href="mailto:achmadmustofayusuff@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ryharofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-achmadmustofayusuff@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyHarJr&color=0ea5e9&label=Profile+Views&style=flat-square" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/RyHarJr?label=Followers&style=flat-square&color=0ea5e9&logo=github" />
 </p>
 
 <!-- ══════════════════════════════════════ TECH STACK ══════════════════════════════════════ -->
