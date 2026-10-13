@@ -1,4 +1,4 @@
-<img  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Mustofa%20Yusud&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=%20Web%20Developer%20%7C%&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Mustofa%20Yusuf&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=%7C%&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
 
 
 <!-- ══════════════════════════════════════ ABOUT ME ══════════════════════════════════════ -->
@@ -6,11 +6,11 @@
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">&nbsp; About Me</h2>
 
 ```yaml
-name: Ahmad Rizki Hartawan
+name: Ahmad Mustofa Yusuf
 location: Indonesia 🇮🇩
-education: Sistem Informasi | Universitas Multi Data Palembang
-semester: 4
-focus: Full-Stack Web Development & WhatsApp Bot
+education: Lulusan SMK
+teknik: Teknik Komputer Dan Jaringan
+focus: Web Development
 currently_learning: Next.js, TypeScript, System Architecture
 fun_fact: I turn coffee into code ☕ → 💻
 ```
@@ -20,14 +20,8 @@ fun_fact: I turn coffee into code ☕ → 💻
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">&nbsp; Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:ryharofficial@gmail.com">
+  <a href="mailto:achmadmustofayusuff@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ryharofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/rizkihartawan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rizki_Hartawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/RyHarJr">
-    <img src="https://img.shields.io/badge/GitHub-RyHarJr-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
