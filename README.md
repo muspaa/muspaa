@@ -1,10 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Rizki%20Hartawan&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%20WhatsApp%20Bot%20Enthusiast&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
+<img  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Mustofa%20Yusud&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=%20Web%20Developer%20%7C%&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=500&lines=Mahasiswa+Sistem+Informasi+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;WhatsApp+Bot+Builder+%F0%9F%A4%96;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- ══════════════════════════════════════ ABOUT ME ══════════════════════════════════════ -->
 
